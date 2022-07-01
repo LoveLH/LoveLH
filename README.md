@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=LoveLH&show_icons=true&hide_border=true&count_private=true&custom_title=%E7%88%B1%E7%86%84%E7%81%AD%E4%BA%86%E7%81%AF%20%E5%BF%83%E5%9B%B4%E4%B8%80%E5%BA%A7%E5%9F%8E)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LoveLH&layout=compact&cache_seconds=1600&hide_title=true&card_width=445&hide_border=true)
 <!--
 **LoveLH/LoveLH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
