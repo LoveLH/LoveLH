@@ -1,8 +1,8 @@
 <a title="Hits" target="_blank" href="https://github.com/LoveLH/LoveLH"><img src="https://hits.b3log.org/LoveLH/LoveLH.svg"></a>
 
-[![LoveLH's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoveLH)](https://github.com/anuraghazra/github-readme-stats)
+[![LoveLH's GitHub stats](https://github-readme-stats-git-main-lovelh.vercel.app/api?username=LoveLH)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoveLH)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-main-lovelh.vercel.app/api/top-langs/?username=LoveLH)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LoveLH/LoveLH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
